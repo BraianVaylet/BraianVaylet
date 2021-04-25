@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi, I'm Braian 👋
 
-<!--
-**BraianVaylet/BraianVaylet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 *Web UI developer in Globant*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me...
+```js
+const braianvaylet = {
+  pronouns: "he/him",
+  code: ["JavaScript", "CSS", "HTML"],
+  interests: [{
+    "frontEnd": {
+      "React.js": ["Next.js", "Redux", "ReactNative"]},
+      "Svelte",
+      "TypeScript",
+      "CSS": ["SCSS", "StyledComponent"]
+     },
+    "backEnd": ["Node.js", "GraphQL", "Firebase"],
+    "design": ["UX", "UI"]
+  }],
+  work: [{
+    Globant: "https://www.globant.com/",
+  }],
+  links: [{
+    facebook: "https://es-la.facebook.com/bvaylet",
+    linkedin: "https://ar.linkedin.com/in/braianvaylet",
+  }],
+}
+```
