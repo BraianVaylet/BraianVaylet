@@ -4,5 +4,7 @@
 - 👉 FrontEnd Developer 
 - 💛 JavaScript
 - 💙 React.js ecosystem
-- 💚 Node.js
 - 🧡 Svelte.js
+- 💚 Node.js
+- 💜 GraphQl
+
