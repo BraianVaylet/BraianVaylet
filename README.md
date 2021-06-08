@@ -1,10 +1,15 @@
 ## Hi, I'm Braian 👋
 
 - 👨‍💻 *Web UI developer in Globant*
-- 👉 FrontEnd Developer 
+- 👨‍🏫 *Tutor en Coderhouse*
+
+- 🤍 FrontEnd Developer 
 - 💛 JavaScript
-- 💙 React.js ecosystem
-- 🧡 Svelte.js
+- 💙 React.js
+- 🖤 Next.js
 - 💚 Node.js
 - 💜 GraphQl
+- 🧡 Svelte
+
+
 
