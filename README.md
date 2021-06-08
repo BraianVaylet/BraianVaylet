@@ -4,7 +4,7 @@
 
 ___
 
-- 🤍 FrontEnd Developer 
+- 🤍 FrontEnd 
 - 💛 JavaScript
 - 💙 React.js
 - 🖤 Next.js
