@@ -1,16 +1,18 @@
 ## Hi, I'm Braian 👋
 
-👨‍💻 *Web UI developer in Globant* & 👨‍🏫 *Tutor en Coderhouse*
+👨‍💻 *Web UI developer in Globant* 
+👨‍🏫 *Tutor en Coderhouse*
+🤓 *En constante aprendizaje*
 
 ___
 
 - 🤍 FrontEnd 
-- 💛 JavaScript
-- 💙 React.js
-- 🖤 Next.js
-- 💚 Node.js
+- 💛 JavaScript | TypeScript
+- 💙 React.js | Next.js 
+- 💚 Node.js | Strapi
+- 🧡 Svelte | Stencil
 - 💜 GraphQl
-- 🧡 Svelte
+
 
 
 
