@@ -1,8 +1,9 @@
 ## Hi, I'm Braian 👋
 
-👨‍💻 *Web UI developer in Globant* 
-👨‍🏫 *Tutor en Coderhouse*
-🤓 *En constante aprendizaje*
+👨‍💻 *Web UI developer in Globant* | 
+👨‍🏫 *Tutor en Coderhouse* | 
+🤓 *En constante aprendizaje* | 
+💛 JavaScript
 
 ___
 
