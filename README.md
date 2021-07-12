@@ -7,12 +7,10 @@
 
 ___
 
-- 🤍 FrontEnd 
-- 💛 JavaScript | TypeScript
-- 💙 React.js | Next.js 
-- 💚 Node.js | Strapi
-- 🧡 Svelte | Stencil
-- 💜 GraphQl
+🤍 FrontEnd 
+💛 JavaScript
+💙 React.js
+💚 Node.js
 
 
 
