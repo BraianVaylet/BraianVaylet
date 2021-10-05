@@ -1,17 +1,13 @@
 ## Hi, I'm Braian 👋
 
-👨‍💻 *Web UI developer in Globant* | 
-👨‍🏫 *Tutor en Coderhouse* | 
-🤓 *En constante aprendizaje* | 
-💛 JavaScript
-
-___
-
-🤍 FrontEnd 
-💛 JavaScript
-💙 React.js
-💚 Node.js
-
+- 👨‍💻 Web UI developer in Globant
+- 👨‍🏫 Tutor in Coderhouse
+- 🤓 Constantly learning
+- 💛 JavaScript
+- 💙 React ecosystem
+- 💚 Node.js
+- 🏊‍♂️ Swimmer
+- 🐈 I have a cat!
 
 
 
