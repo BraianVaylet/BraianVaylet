@@ -6,7 +6,7 @@
 - 👨‍💻 Blockchain and dApp developer ⏳(in progress)
 - 👨‍🏫 Tutor 👉 [Coderhouse](https://www.coderhouse.com/)
 
-## 😍 technologies
+## Technologies
 - 💛 JavaScript
 - 💙 React ecosystem
 - 💚 Node.js
