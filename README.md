@@ -1,6 +1,6 @@
 ## Hi, I'm Braian 👋
 
-## Work
+## Working now
 - 👨‍💻 Web UI developer 👉 [Globant](https://www.globant.com/es)
 - 👨‍💻 FrontEnd developer 👉 [Telecom-Globant](https://www.personal.com.ar/)
 - 👨‍💻 Blockchain and dApp developer ⏳(in progress)
