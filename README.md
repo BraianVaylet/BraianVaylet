@@ -8,6 +8,7 @@
 - 💛 JavaScript
 - 💙 React ecosystem
 - 💚 Node.js
+- 🧡 Web3
 - 🖤 Solidity
 
 ## About me
