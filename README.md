@@ -1,7 +1,7 @@
 ## Hi, I'm Braian 👋
 - 👨‍💻 Web UI developer 👉 [Globant](https://www.globant.com/es)
 - 👨‍💻 FrontEnd developer 👉 [Telecom-Globant](https://www.personal.com.ar/)
-- 👨‍💻 Blockchain and dApp developer ⏳(in progress)
+- 👨‍💻 Blockchain and dApp developer student
 - 👨‍🏫 Tutor 👉 [Coderhouse](https://www.coderhouse.com/)
 
 ## Technologies
