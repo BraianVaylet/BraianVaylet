@@ -6,7 +6,7 @@
 - 👨‍💻 Web developer frontend 👉 [Telecom-Globant](https://www.personal.com.ar/)
 - 👨‍💻 Blockchain and web3 developer student
 - 👨‍🏫 Tutor 👉 [Coderhouse](https://www.coderhouse.com/)
-- 🤓 Student in [Platzi](https://platzi.com/p/braianvaylet/)
+- 🤓 Student 👉 [Platzi](https://platzi.com/p/braianvaylet/)
 - 🏊‍♂️ Swimmer
 
 ## Technologies
