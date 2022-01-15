@@ -1,15 +1,20 @@
 # Hi, I'm Braian 👋
 
-## About me
+## What I do
 
 - 👨‍💻 Web UI developer 👉 [Globant](https://www.globant.com/es)
-- 👨‍💻 Web developer frontend 👉 [Telecom-Globant](https://www.personal.com.ar/)
+- 👨‍💻 Frontend developer 👉 [Telecom-Globant](https://www.personal.com.ar/)
 - 👨‍💻 Blockchain and web3 developer student
 - 👨‍🏫 Tutor 👉 [Coderhouse](https://www.coderhouse.com/)
 - 🤓 Student 👉 [Platzi](https://platzi.com/p/braianvaylet/)
-- 🏊‍♂️ Swimmer
 
-## Technologies
+## I like
+- 🏊‍♂️ Swimm
+- 🏃‍♂️ run
+- 🐈 Cats
+- 🍕 eat!
+
+## My top technologies
 
 - 💛 JavaScript
 - 💙 React ecosystem
