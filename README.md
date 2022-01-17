@@ -1,6 +1,6 @@
-### Hi, I'm Braian 👋
+### Hi 👋! I'm Braian, a web technologies lover!
 
-#### What I do
+#### About me
 
 - 👨‍💻 Web UI developer 👉 [Globant](https://www.globant.com/es)
 - 👨‍💻 Frontend developer 👉 [Telecom-Globant](https://www.personal.com.ar/)
