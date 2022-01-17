@@ -8,18 +8,11 @@
 
 #### I like
 
-- 🏊‍♂️ Swimm
-- 🏃‍♂️ Run
-- 🐈 Cats
-- 🍕 Eat!
+- 🏊‍♂️ Swimm, 🏃‍♂️ Run, 🐈 Cats & 🍕 Eat!
 
 #### My top technologies
 
-- 💛 JavaScript
-- 💙 React ecosystem
-- 💚 Node.js
-- 🧡 Web3
-- 🖤 Solidity
+- 💛 JavaScript, 💙 React ecosystem, 💚 Node.js, 🧡 Web3, 🖤 Solidity & more...
 
 ---
 
