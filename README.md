@@ -4,11 +4,10 @@
 
 - 👨‍💻 Web UI developer 👉 [Globant](https://www.globant.com/es)
 - 👨‍💻 Frontend developer 👉 [Telecom-Globant](https://www.personal.com.ar/)
-- 👨‍💻 Blockchain and web3 developer student
 - 👨‍🏫 Tutor 👉 [Coderhouse](https://www.coderhouse.com/)
-- 🤓 Student 👉 [Platzi](https://platzi.com/p/braianvaylet/)
 
 #### I like
+
 - 🏊‍♂️ Swimm
 - 🏃‍♂️ Run
 - 🐈 Cats
