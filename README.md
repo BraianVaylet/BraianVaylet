@@ -8,7 +8,7 @@
 
 #### I like
 
-- 🏊‍♂️ Swimm, 🏃‍♂️ Run, 🐈 Cats & 🍕 Eat!
+- 🏊‍♂️ Swimm | 🏃‍♂️ Run | 🐈 Cats | 🍕 Eat!
 
 #### My top technologies
 
