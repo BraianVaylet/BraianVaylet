@@ -10,9 +10,9 @@
 
 ## I like
 - 🏊‍♂️ Swimm
-- 🏃‍♂️ run
+- 🏃‍♂️ Run
 - 🐈 Cats
-- 🍕 eat!
+- 🍕 Eat!
 
 ## My top technologies
 
