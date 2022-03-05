@@ -1,20 +1,22 @@
-### Hi 👋! I'm Braian, a web technologies lover!
+## Hi 👋! I'm Braian, a web technologies lover!
 
-#### About me
+### About me
 
 - 👨‍💻 Web UI developer 👉 [Globant](https://www.globant.com/es)
 - 👨‍💻 Frontend developer 👉 [Telecom-Globant](https://www.personal.com.ar/)
 - 👨‍🏫 Tutor 👉 [Coderhouse](https://www.coderhouse.com/)
 
-#### I like
+### I like
 
 - 🏊‍♂️ Swim | 🏃‍♂️ Run | 🐈 Cats | 🍕 Eat!
 
-#### My top technologies
+### My top technologies
 
 - 💛 JavaScript | 💙 React ecosystem | 💚 Node.js | 🧡 Web3 | 🖤 Solidity
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BraianVaylet&show_icons=true&locale=en&langs_count=8&theme=radical&layout=compact" alt="braianvayletstatus" /></p>
+### Most used languages
+
+<p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BraianVaylet&show_icons=true&locale=en&langs_count=8&theme=radical&layout=compact&hide=html,shell" alt="braianvayletstatus" /></p>
 
 ---
 
