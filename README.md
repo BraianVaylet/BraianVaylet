@@ -16,7 +16,7 @@
 
 ### My top technologies
 
-- 💛 JavaScript | 💙 React ecosystem | 💚 Node.js | 🧡 Web3 | 🖤 Solidity
+- 💛 JavaScript | 💙 React | 💚 Node | 🧡 Web3 | 🖤 Solidity
 
 ### Most used languages
 
