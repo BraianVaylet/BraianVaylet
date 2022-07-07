@@ -18,7 +18,7 @@
 
 - 💛 JavaScript | 💙 React | 💚 Node | 🧡 Web3 | 🖤 Solidity
 
-### Most used languages
+### Most used languages 
 
 <p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BraianVaylet&show_icons=true&locale=en&langs_count=8&theme=aura&layout=compact&hide=html,shell" alt="braianvayletstatus" /></p>
 
