@@ -7,7 +7,6 @@
 ### About me
 
 - 👨‍💻 Web UI developer 👉 [Globant](https://www.globant.com/es)
-- 👨‍💻 Frontend developer 👉 [Telecom-Globant](https://www.personal.com.ar/)
 - 👨‍🏫 Tutor 👉 [Coderhouse](https://www.coderhouse.com/)
 
 ### I like
