@@ -6,8 +6,9 @@
 
 ### About me
 
-- 👨‍💻 Web UI developer 👉 [Globant](https://www.globant.com/es)
-- 👨‍🏫 Tutor 👉 [Coderhouse](https://www.coderhouse.com/)
+- 👨‍💻 Web UI developer 👉 [Globant](https://www.globant.com/es).
+- 👨‍💻 ReactNative developer 👉 Banco Galicia Argentina, Galicia Agro, Nera.
+- 👨‍🏫 Tutor 👉 [Coderhouse](https://www.coderhouse.com/).
 
 ### I like
 
