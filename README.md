@@ -12,7 +12,7 @@
 
 ### My top technologies
 
-- 💛 JavaScript | 💙 React | 💚 Node | 🧡 Web3 | 🖤 Solidity
+- 💛 JavaScript | 💙 React | 💚 Node | 🧡 Web3 | 🖤 ReactNative
 
 <!-- ### Most used languages 
 
