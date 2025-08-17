@@ -1,23 +1,5 @@
 ## Hi 👋! I'm Braian, a web technologies lover!
 
-### About me
-
-- 👨‍💻 Web UI developer 👉 [Globant](https://www.globant.com/es).
-- 👨‍💻 ReactNative developer 👉 Banco Galicia Argentina, Galicia Agro, Nera.
-- 👨‍🏫 Tutor 👉 [Coderhouse](https://www.coderhouse.com/).
-
-### I like
-
-- 🏊‍♂️ | 🏃‍♂️ | 🚴‍♂️ | 👨‍💻 | 🐈 | 🍕
-
-### My top technologies
-
-- 💛 JavaScript | 💙 React | 💚 Node | 🧡 Web3 | 🖤 ReactNative
-
-<!-- ### Most used languages 
-
-<p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BraianVaylet&show_icons=true&locale=en&langs_count=8&theme=aura&layout=compact&hide=html,shell" alt="braianvayletstatus" /></p> -->
-
 ---
 
 <p align='center'>
